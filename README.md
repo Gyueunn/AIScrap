@@ -1,4 +1,4 @@
-# AI_Scrap
+# AI 관련 자료 스크랩
 
 ### [뉴스외전 포커스] "인공지능은 영원히 오류 낼 것" (2023.02.22)
 * https://www.youtube.com/watch?v=SPsRRQXh32s 
